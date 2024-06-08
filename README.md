@@ -8,7 +8,7 @@
 </p>
 
 ## ✨ Proje Hakkında Bilgi
-Merhaba, Botu edinmek istiyorsanız (satın almak), detayları konuşmak için lütfen Discord üzerinden benimle iletişime geçin. Discord kullanıcı adım: [@ertu](https://discord.com/users/136619876407050240) İlginiz için teşekkür ederim!
+Merhaba. Bu botlar, sunucunuzun yönetimini kolaylaştıracak ve kullanıcı deneyimini artıracak bir dizi özellik içerir. Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle iletişime geçebilirsiniz. Discord kullanıcı adım: [@ertu](https://discord.com/users/136619876407050240) İlginiz için teşekkür ederim!
 
 ## 🍭 Görüntüler
 
@@ -26,8 +26,6 @@ Merhaba, Botu edinmek istiyorsanız (satın almak), detayları konuşmak için l
 | Return Komutu | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/8b966190-f670-4a50-8d4e-d85bdf907196"> |
 | Sorun Çöz Komutu | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/6d9252b7-bf54-4803-a623-25268c35cd40"> |
 </details>
-
-<details>
 
 <details>
   <summary>Kullanıcı Komutları</summary>
