@@ -8,9 +8,25 @@
 </p>
 
 ## ✨ Proje Hakkında Bilgi
-Merhaba, Bu projeye 150 yıldız (star) geldiğinde, büyük olasılıkla botu paylaşacağım. Alternatif olarak, botu edinmek istiyorsanız (satın almak), detayları konuşmak için lütfen Discord üzerinden benimle iletişime geçin. Discord kullanıcı adım: [@ertu](https://discord.com/users/136619876407050240) İlginiz için teşekkür ederim!
+Merhaba, Botu edinmek istiyorsanız (satın almak), detayları konuşmak için lütfen Discord üzerinden benimle iletişime geçin. Discord kullanıcı adım: [@ertu](https://discord.com/users/136619876407050240) İlginiz için teşekkür ederim!
 
 ## 🍭 Görüntüler
+
+<details>
+  <summary>GÖREV SİSTEMİ</summary>
+
+| Komut                  | Resim                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| Görev Alma | <img alt="image" src= "https://github.com/ertucuk/Ertu-Bots/assets/68440024/6bf1970c-91cc-4a61-b67f-13edfecef025"> |
+| Görev <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/578cfe33-3072-4dd8-a5f4-fc5da4bfa238"> |
+| Yetkili Alma | <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/1e97328e-08a4-4ae1-b359-af30e2b256f4"> |
+| Yetki Yükselt-Düşür | <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/1e97328e-08a4-4ae1-b359-af30e2b256f4"> |
+| Yetkililerim | <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/1e97328e-08a4-4ae1-b359-af30e2b256f4"> |
+| Return | <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/1e97328e-08a4-4ae1-b359-af30e2b256f4"> |
+| Sorun Çözme | <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/1e97328e-08a4-4ae1-b359-af30e2b256f4"> |
+</details>
+
+<details>
 
 <details>
   <summary>Kullanıcı Komutları</summary>
