@@ -17,13 +17,14 @@ Merhaba, Botu edinmek istiyorsanız (satın almak), detayları konuşmak için l
 
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Görev Alma | <img alt="image" src= "https://github.com/ertucuk/Ertu-Bots/assets/68440024/6bf1970c-91cc-4a61-b67f-13edfecef025"> |
-| Görev <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/578cfe33-3072-4dd8-a5f4-fc5da4bfa238"> |
-| Yetkili Alma | <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/1e97328e-08a4-4ae1-b359-af30e2b256f4"> |
-| Yetki Yükselt-Düşür | <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/1e97328e-08a4-4ae1-b359-af30e2b256f4"> |
-| Yetkililerim | <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/1e97328e-08a4-4ae1-b359-af30e2b256f4"> |
-| Return | <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/1e97328e-08a4-4ae1-b359-af30e2b256f4"> |
-| Sorun Çözme | <img alt="image" src="https://github.com/ertucuk/Ertu-Bots/assets/68440024/1e97328e-08a4-4ae1-b359-af30e2b256f4"> |
+| Görev Alma | <img alt="image" src= "https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/0ace299e-5642-48e4-8feb-0937d37f5e50"> |
+| Görev 1.sayfa | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/661b0ec2-66ca-4591-a43a-dd00bc30d989"> |
+| Görev 2.sayfa | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/a69ba745-744b-4510-b199-ee0003205dec"> |
+| Yetkili Alma | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/4ac6b9d3-c411-48fe-b574-8bf2284c9f46"> |
+| Yetki Yükselt - Düşür | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/7fbe51a8-4950-4346-b532-9718f82ba9bf"> |
+| Yetkililerim | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/b78656f4-fdc4-4abb-8a5c-b74c3794a381"> |
+| Return Komutu | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/8b966190-f670-4a50-8d4e-d85bdf907196"> |
+| Sorun Çöz Komutu | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/6d9252b7-bf54-4803-a623-25268c35cd40"> |
 </details>
 
 <details>
