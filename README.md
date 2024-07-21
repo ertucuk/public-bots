@@ -1,16 +1,4 @@
-<p align="center">
-  <h3 align="center">ERTU V14 BOTS</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://discord.gg/luppux"><strong>Luppux Development</strong></a>
-  </p>
-</p>
-
-## ✨ Proje Hakkında Bilgi
-Merhaba. Bu botlar, sunucunuzun yönetimini kolaylaştıracak ve kullanıcı deneyimini artıracak bir dizi özellik içerir. Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle iletişime geçebilirsiniz. Discord kullanıcı adım: [@ertu](https://discord.com/users/136619876407050240) İlginiz için teşekkür ederim!
-
-## 🍭 Görüntüler
+# ALTYAPIYI ALMAK İSTEYENLER l948 ADLI DİSCORD KULLANICISINA ARKADASLIK ATSIN UCUZ BİR FİYATA BIRAKACAĞIM
 
 <details>
   <summary>GÖREV SİSTEMİ</summary>
@@ -93,10 +81,5 @@ Merhaba. Bu botlar, sunucunuzun yönetimini kolaylaştıracak ve kullanıcı den
 
 </details>
 
-
-
-
 ## 🐻‍❄️ Author & Lisence
-
-
 Telif Hakkı © 2024 [Ertuğrul 'Ertu' Karahanlı](https://github.com/ertucuk). Bu proje [GNU Genel Kamu Lisansı v3.0](https://github.com/ertucuk/Ertu-Bots/blob/main/LICENSE) ile lisanslanmıştır.
