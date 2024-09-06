@@ -1,3 +1,9 @@
+# ertu-bots
+
+knk alın güle güle kullanın siklemeye seviyem aşağıdadır;
+<br>
+<img alt="image" src= "https://github.com/user-attachments/assets/88372de0-f208-443d-8a9e-8f87385d50bf"> |
+
 <details>
   <summary>GÖREV SİSTEMİ</summary>
 
@@ -80,4 +86,4 @@
 </details>
 
 ## 🐻‍❄️ Author & Lisence
-Telif Hakkı © 2024 [Ertuğrul 'Ertu' Karahanlı](https://github.com/ertucuk). Bu proje [GNU Genel Kamu Lisansı v3.0](https://github.com/ertucuk/Ertu-Bots/blob/main/LICENSE) ile lisanslanmıştır.
+Telif Hakkı © 2024 [Ertuğrul 'Ertu' Karahanlı](https://github.com/ertucuk). Bu proje GNU Genel Kamu Lisansı v3.0 ile lisanslanmıştır.

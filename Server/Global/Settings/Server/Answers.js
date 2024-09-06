@@ -1,0 +1,25 @@
+const { mark } = require("./Emojis.json")
+
+module.exports = {
+    mark,
+    noyt: `Bu komutu kullanabilmek için yetkin bulunmamakta. ${mark}`,
+    etiketle: `Lütfen bir kullanıcı etiketleyin veya ID'sini giriniz. ${mark}`,
+    süre: `İşleme devam edebilmeniz için bir süre belirtiniz. ${mark}`,
+    sebep: `İşleme devam edebilmeniz için bir sebep belirtiniz. ${mark}`,
+    yetkiust: `İşlem yapmaya çalıştığın kulanıcı senle aynı yetkide veya senden üstün. ${mark}`,
+    dokunulmaz: `Bot'un erişimi olmadığı için işleme devam edilemiyor. ${mark}`,
+    kayıtlı: `Belirtiğiniz kullanıcı zaten kayıtlı olduğu için işleme devam edilemiyor. ${mark}`,
+    kayıtsız: `Kayıtsız kullanıcıyı tekrardan kayıtsıza atamazsınız. ${mark}`,
+    kendi: `Kendi üzerine işlem uygulayamazsın. ${mark}`,
+    bulunamadi: `Belirttiğiniz ID sunucu veya da sistem içerisinde bulunamadı. ${mark}`,
+    üyeyok: `Lütfen bir kullanıcı etiketleyin veya ID'sini giriniz. ${mark}`,
+    cezaliuye: `Belirtilen kullanıcı cezalı olduğu için işleme devam edilemiyor. ${mark}`,
+    argümandoldur: `Belirtilen argümanlar geçersiz olduğu için devam edilemiyor. ${mark}`,
+    taglıalım: `Belirtilen kullanıcının isminde tagımız bulunmadığından işleme devam edilemiyor. ${mark}`,
+    cezavar: `Belirtilen kullanıcının aktif bir cezalandırılması bulunduğundan işlem yapılamaz. ${mark}`,
+    cezayok: `Belirtilen kullanıcının aktif bir cezası bulunamadı. ${mark}`,
+    yetkilinoban: `Belirtilen kullanıcı yetkili olduğundan işlem yapılamıyor. ${mark}`,
+    yasaklamayok: `Sunucuda herhangi bir yasaklama bulunamadı. ${mark}`,
+    data: `Belirtilen kullanıcının verisi bulunamadı. ${mark}`,
+    limit: `Saatlik limitinizi aştınız. ${mark}`,
+}
