@@ -1,6 +1,6 @@
 # ertu-bots
 
-knk alın güle güle kullanın siklemeye seviyem aşağıdadır;
+publicleriniz icin cok saglam bir bot sadece guard yok guardıda beşin altyapıdan alın zaten onu kullanıyordum kendisi bana vermisti kullannmam için herneyse knk alın güle güle kullanın siklemeye seviyem aşağıdadır;
 <br>
 <img alt="image" src= "https://github.com/user-attachments/assets/88372de0-f208-443d-8a9e-8f87385d50bf"> |
 
