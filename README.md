@@ -1,5 +1,6 @@
 # ertu-bots
 
+# altyapının yeni halini almak için (içinde yeni guard ve görev sistemi var) discord -> ertu
 yapimina 5 ay ugrastigim ve publicleriniz icin cok saglam bir bot sadece guard yok guardıda beşin altyapıdan alın zaten onu kullanıyordum kendisi bana vermisti kullannmam için herneyse knk alın güle güle kullanın siklemeye seviyemiz aşağıdadır;
 <br>
 <img alt="image" src= "https://github.com/user-attachments/assets/1d0a20be-f587-42ad-83d7-019309365d2d"> 
