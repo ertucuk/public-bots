@@ -1,9 +1,21 @@
-# ertu-bots
+<p align="center">
+  <h3 align="center">ERTU V14 PUBLIC BOTS</h3>
+</p>
 
-yapimina 5 ay ugrastigim ve publicleriniz icin cok saglam bir bot sadece guard yok guardıda beşin altyapıdan alın zaten onu kullanıyordum kendisi bana vermisti kullannmam için herneyse knk alın güle güle kullanın siklemeye seviyemiz aşağıdadır;
-<br>
-<img alt="image" src= "https://github.com/user-attachments/assets/1d0a20be-f587-42ad-83d7-019309365d2d"> 
+## ✨ Proje Hakkında Bilgi
 
+Merhaba, tamamen bot yapmayı bıraktığım için, kendi kullandığım botu paylaşma kararı aldım. Belki yeni bir bota başlarım, ama böyle bir şey olacağını zannetmiyorum. Bu projeye 6 ayımı harcadım ve bot, bazı kişilerden dolayı paylaşıldı. Güle güle kullanın, iyi kodlamalar dilerim.
+[ertu](https://discord.com/users/136619876407050240) İlginiz için teşekkür ederim!
+
+## ✨ Özellikler
+
+- ⚙️ **Tamamen Özelleştirilebilir:** Kapsamlı özelleştirme seçenekleriyle botunuzu tercihlerinize göre uyarlayın.
+- 🌆 **Kontrol Paneli:** Kontrol panelimiz aracılığıyla bot ayarlarını zahmetsizce yönetin.
+- 📝 **Kolay Yapılandırma:** Kurulumu çocuk oyuncağı haline getiren kolaylaştırılmış yapılandırma süreci.
+- 💯 **100+ Komut:** Sunucunuzun deneyimini zenginleştirmek için 150'den fazla çok yönlü komuta erişin.
+- 📚 **Kolay Barındırma:** Sunucularınızda zahmetsizce barındırın ve 7/24 çevrimiçi tutun.
+
+## 🍭 Komutlar ve Görüntüler
 <details>
   <summary>GÖREV SİSTEMİ</summary>
 
