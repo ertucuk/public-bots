@@ -2,6 +2,10 @@
   <h3 align="center">ERTU V14 PUBLIC BOTS</h3>
 </p>
 
+## 📢 Duyuru
+
+Botun son sürümünü (Guardlı ve yeni yazılmış kodlar) almak için 'luhux' kullanıcı adına yazıp bot fiyatı hakkında destek alabilir.
+
 ## ✨ Proje Hakkında Bilgi
 
 Merhaba, tamamen bot yapmayı bıraktığım için, kendi kullandığım botu paylaşma kararı aldım. Belki yeni bir bota başlarım, ama böyle bir şey olacağını zannetmiyorum. Bu projeye 6 ayımı harcadım ve bot, bazı kişilerden dolayı paylaşıldı. Güle güle kullanın, iyi kodlamalar dilerim.
