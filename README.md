@@ -4,7 +4,7 @@
 
 ## 📢 Duyuru
 
-Botun son sürümünü (Guardlı ve yeni yazılmış kodlar) almak için 'luhux' kullanıcı adına yazıp bot fiyatı hakkında destek alabilir.
+Botun son sürümünü (Guardlı ve yeni yazılmış kodlar) almak için 'luhux' kullanıcı adına yazıp bot fiyatı hakkında destek alabilir. Ayrıca botu incelemek için https://discord.gg/panteon sunucusundan da bakabilirsiniz.
 
 ## ✨ Proje Hakkında Bilgi
 
