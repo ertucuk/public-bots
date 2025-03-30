@@ -18,7 +18,7 @@ if (Settings.Main.Moderation)
     bots.push({
         name: Settings.serverName + '-Moderation',
         namespace: 'ertu',
-        script: 'Shards.js',
+        script: 'index.js',
         watch: true,
         exec_mode: 'cluster',
         max_memory_restart: '2G',
@@ -30,7 +30,7 @@ if (Settings.Main.Statistics)
     bots.push({
         name: Settings.serverName + '-Statistics',
         namespace: 'ertu',
-        script: 'Shards.js',
+        script: 'index.js',
         watch: false,
         exec_mode: 'cluster',
         max_memory_restart: '2G',
@@ -42,14 +42,12 @@ if (Settings.Main.Controller)
     bots.push({
         name: Settings.serverName + '-Controller',
         namespace: 'ertu',
-        script: 'Shards.js',
+        script: 'index.js',
         watch: false,
         exec_mode: 'cluster',
         max_memory_restart: '2G',
         cwd: './Server/Mainframe/Controller',
         args: ['--color', '--watch'],
 });
-
-
 
 module.exports = { apps: bots };
